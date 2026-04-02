@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+2:I[240,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","799","static/chunks/799-98f5eb76047556c7.js","858","static/chunks/app/posts/%5Bslug%5D/page-f59cee1d32aacb4b.js"],"WebGLShader"]
+3:I[3549,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","799","static/chunks/799-98f5eb76047556c7.js","858","static/chunks/app/posts/%5Bslug%5D/page-f59cee1d32aacb4b.js"],""]
+6:I[8937,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+4:Tf4b,<img src="https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1677407209973-WSNV83UR3C38MSVHCB58/shadow-zine-4.jpg?format=original" alt=""/>
+  
+
+
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h2 ><strong>Carl Jung, the Kemetic tarot and a regenerated wicca feature in <em>Shadow Zine,</em> a boutique publication from cutting-edge coven The High Priestxss.&nbsp;</strong></h2><h2 ><strong>Its editor, designer turned shadow sorceress Claire Yurika speaks to me atop the blasted heath of Zoom.</strong></h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+ 
+   <iframe width="200" height="113" src="https://www.youtube.com/embed/U_ACCn4W3No?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Slow down, do shadow work says The High Priestxss"></iframe>
+ 
+
+
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h2 ><strong>Claire Yurika put the brakes on a glittering fashion career to focus on her inner work.</strong></h2><p class="" >“Allowing shadow to pass through a room brings softness, like switching from overhead office lighting to a lamp-lit glow,” is her eloquent description of life post <a href="https://www.youtube.com/watch?v=GIuZUCpm9hc">‘shadow integration’</a>.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1677407099242-CD90KZ0IW9V5IIF39OX1/claire-1.jpg?format=original" alt=""/>
+  
+
+
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p class="" >Psychologist Carl Jung, Sigmund Freud’s star student who favoured a spiritual and proactive approach to living, claimed the world would be a much better place if we all did the same.&nbsp;</p><h2 ><strong>"Shadow work could be explained as exploring life”</strong></h2><p class="" >Crucial to this effort was a merciless examination of ‘The Shadow’, the side of us that we suppress and deny. Taming these instincts involves earning their trust. Shaming them leads to frustration, and later madness. &nbsp;</p><h2 ><strong>“The shadow is where there is subtlety, and mystery”</strong></h2><p class="" >Dr Rick ‘Spirit Molecule’ Strassman stressed the <a href="https://www.newpsychonaut.com/vital-zine-7/this-is-gonna-hurt-strassman-tips-for-therapists">importance of self-reflection</a> to psychedelic therapists in his Vital lecture earlier in the syllabus. </p><p class="" >And at 2022’s Breaking Convention conference Magnificent Maria Papaspyrou (<a href="https://www.amazon.co.uk/Psychedelic-Mysteries-Feminine-Creativity-Ecstasy/dp/1620558025"><em>The Psychedelic Divine Feminine</em></a>, <a href="https://instituteofpsychedelictherapy.org/">Institute of Psychedelic Therapy</a>), cited <a href="https://www.newpsychonaut.com/insights/vital-student-zine-week-six/shadow-work-psychedelics">collective shadow integration as key</a> to emerging from our liminal age intact.</p><h2 ><strong>“Most of our shadow work is about fear. It's fine to be fearful of wasting your life. Investigate why that scares you”</strong></h2><p class="" ><a href="https://growth.thehighpriestxss.com/"><em>Shadow Zine</em></a> is Claire’s polished, playful and practical companion for our own shadow work, published by her cutting-edge coven <a href="http://thehighpriestxss.com/">The High Priestxss</a> in London. In my latest broadcast interview, Claire talks about how shadow work can save the world, slowing down, self-agency and ancient Egyptian magick in the cosmopolis.&nbsp;</p><p class="" ><a href="https://www.instagram.com/slytherinsextherapist/">Follow Claire on Instagram for more shadowy goings-on</a>.</p><p class="" ><a href="https://growth.thehighpriestxss.com/"><strong><em>Grab your copy of Shadow Zine here</em></strong></a><strong><em>.</em></strong></p>
+</div>0:{"buildId":"GfNJdzO5jCwDNbCS-nYGM","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"relative min-h-screen font-sans bg-black","children":[["$","$L2",null,{}],["$","div",null,{"className":"relative z-10 w-full min-h-screen bg-black/80 backdrop-blur-md pb-20 px-4 md:px-16 pt-16","children":["$","div",null,{"className":"max-w-4xl mx-auto backdrop-blur-3xl bg-[#111111]/30 p-8 md:p-12 rounded-2xl border border-white/5 shadow-2xl","children":[["$","$L3",null,{"href":"/","className":"text-zinc-500 hover:text-white mb-8 inline-block transition-colors font-mono text-sm tracking-tight border border-zinc-800 rounded-full py-2 px-6 hover:bg-white/10 hover:border-white/20","children":"← Back to Index"}],["$","h1",null,{"className":"text-4xl md:text-5xl lg:text-7xl font-extrabold tracking-tighter mb-4 text-white leading-tight","children":"Slow down, do your shadow work"}],["$","p",null,{"className":"text-zinc-400 mb-12 font-mono text-sm border-b border-zinc-900 pb-8","children":["Published ","June 30, 2022"]}],["$","article",null,{"className":"mt-8 text-zinc-300 leading-relaxed text-lg  [&_p]:mb-6  [&_h1]:text-white [&_h1]:font-extrabold [&_h1]:text-4xl [&_h1]:mb-6 [&_h1]:mt-12 [&_h1]:tracking-tight [&_h2]:text-white [&_h2]:font-extrabold [&_h2]:text-3xl [&_h2]:mb-6 [&_h2]:mt-10 [&_h2]:tracking-tight [&_h3]:text-white [&_h3]:font-bold [&_h3]:text-2xl [&_h3]:mb-4 [&_h3]:mt-8 [&_a]:text-blue-400 hover:[&_a]:bg-blue-400/10 [&_a]:transition-colors [&_a]:underline [&_a]:underline-offset-4 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mb-6 [&_ul>li]:mb-2 [&_ol]:list-decimal [&_ol]:pl-5 [&_ol]:mb-6 [&_ol>li]:mb-2 [&_blockquote]:border-l-4 [&_blockquote]:border-zinc-700 [&_blockquote]:pl-6 [&_blockquote]:italic [&_blockquote]:text-zinc-400 [&_img]:rounded-xl [&_img]:border [&_img]:border-white/10 [&_img]:shadow-2xl [&_img]:!max-w-full [&_img]:h-auto [&_img]:mx-auto [&_figure]:!max-w-full [&_figure]:overflow-hidden [&_figure]:my-8 [&_figure_figcaption]:text-sm [&_figure_figcaption]:text-center [&_figure_figcaption]:text-zinc-500 [&_figure_figcaption]:mt-3","dangerouslySetInnerHTML":{"__html":"$4"}}],[]]}]}]]}],null,"$L5"]}],"loading":null,"isPartial":false}
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
