@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[1113,[],"ClientPageRoot"]
-3:I[5298,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","629","static/chunks/app/posts/summer-2023-kaftan-collection/page-7d8eb063efab047d.js"],"default"]
+3:I[7582,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","629","static/chunks/app/posts/summer-2023-kaftan-collection/page-e17954c1fd950453.js"],"default"]
 6:I[8937,[],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"GfNJdzO5jCwDNbCS-nYGM","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"x-vapnWmhMTJ3iyawQXvG","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
