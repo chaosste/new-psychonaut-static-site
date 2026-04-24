@@ -1,63 +1,13 @@
 1:"$Sreact.fragment"
-2:I[240,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","799","static/chunks/799-98f5eb76047556c7.js","858","static/chunks/app/posts/%5Bslug%5D/page-f59cee1d32aacb4b.js"],"WebGLShader"]
-3:I[3549,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","799","static/chunks/799-98f5eb76047556c7.js","858","static/chunks/app/posts/%5Bslug%5D/page-f59cee1d32aacb4b.js"],""]
-7:I[3668,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","799","static/chunks/799-98f5eb76047556c7.js","858","static/chunks/app/posts/%5Bslug%5D/page-f59cee1d32aacb4b.js"],"Gallery4"]
-8:I[8937,[],"OutletBoundary"]
-9:"$Sreact.suspense"
-4:T934,<div class="sqs-html-content" data-sqsp-text-block-content>
-  <h2 >Stanford’s Ripal Shah and Bangkok Psychedelic Society’s Neil Gehani will be among 24 speakers over 24 hours</h2>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-<div class="image-gallery-wrapper">
-
-  
-   <img src="https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1714684839507-B4MQZ956VGXM1SD7FIHL/JPEG+image-426F-AE40-4C-0.jpeg?format=original" />
-  
-
-  
-   <img src="https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1714684845201-EWXFPKSIBRP3FOQAIQ9C/JPEG+image-4511-8C57-D5-0.jpeg?format=original" />
-  
-
-  
-   <img src="https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1714684845005-6CDFL230F0WBPH34ZCFB/JPEG+image-4244-8E1C-FB-0.jpeg?format=original" />
-  
-
-  
-   <img src="https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1714684839966-V5SF59L9CUI0G3MUDGVF/JPEG+image-479E-B318-D5-0.jpeg?format=original" />
-  
-
-</div>
-
-
-<div class="sqs-html-content" data-sqsp-text-block-content>
+2:I[240,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","276","static/chunks/276-919ff36e9e7057f7.js","858","static/chunks/app/posts/%5Bslug%5D/page-d5b780bb1ebac4dc.js"],"WebGLShader"]
+3:I[3549,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","276","static/chunks/276-919ff36e9e7057f7.js","858","static/chunks/app/posts/%5Bslug%5D/page-d5b780bb1ebac4dc.js"],""]
+4:I[7108,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","276","static/chunks/276-919ff36e9e7057f7.js","858","static/chunks/app/posts/%5Bslug%5D/page-d5b780bb1ebac4dc.js"],"LegacyImageCarousel"]
+8:I[2306,["831","static/chunks/bd904a5c-fc8dcb7c7ed62fed.js","367","static/chunks/b536a0f1-eec8f286fa64687b.js","713","static/chunks/713-3f965a546658b628.js","549","static/chunks/549-8d661d0a45b3299c.js","402","static/chunks/402-6a7918a101208354.js","276","static/chunks/276-919ff36e9e7057f7.js","858","static/chunks/app/posts/%5Bslug%5D/page-d5b780bb1ebac4dc.js"],"Gallery4"]
+9:I[8937,[],"OutletBoundary"]
+a:"$Sreact.suspense"
+5:T564,<div class="sqs-html-content" data-sqsp-text-block-content>
   <h2 >I’ll be among the cohosts at the Asian Voices in the Psychedelic Movement 24 Hour Circle Sat 25 May from 10am on the west coast/6pm UK through till Sunday 26. </h2><p class="" >Many more guests to be announced. Sign up any time to join the Zoomcast via the <a href="https://www.eventbrite.com/e/asian-voices-in-the-psychedelic-movement-tickets-879002790007&nbsp;" target="_blank">Eventbrite link here</a>.&nbsp;Watch on YouTube via Entheo Society Washington’s <a href="https://www.youtube.com/@entheosocietyofwashington5613/streams">livestream</a> section. I’ll put the Zoom link here when I get it too.</p><p class="" >It’ll be live on <a href="https://www.facebook.com/groups/entheosocietywa.org">Facebook</a> too. The 24 Zoom comes out of Seattle from <a href="https://entheosocietywa.org">Entheo Society</a>, <a href="https://awake.net/etn/women-in-psychedelics-learning-from-success/" target="_blank">AWAKE.net</a> and Holly House.</p><p class="" >Drop in and out anytime and get a blast of community on microdosing day, with new guesys speaking and hosting every hour. This is the latest in a series of all-day remote circles: previous guests include MAPS’ Rick Doblin, Chief Phil Lane Jnr, Ayana Iyi, Ayize Jama-Everett and Harry Smith.</p><p class="" >More on <em>New Psychonaut:</em></p>
-</div>0:{"buildId":"GfNJdzO5jCwDNbCS-nYGM","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"relative min-h-screen font-sans bg-black","children":[["$","$L2",null,{}],["$","div",null,{"className":"relative z-10 w-full min-h-screen bg-black/80 backdrop-blur-md pb-20 px-4 md:px-16 pt-16","children":["$","div",null,{"className":"max-w-4xl mx-auto backdrop-blur-3xl bg-[#111111]/30 p-8 md:p-12 rounded-2xl border border-white/5 shadow-2xl","children":[["$","$L3",null,{"href":"/","className":"text-zinc-500 hover:text-white mb-8 inline-block transition-colors font-mono text-sm tracking-tight border border-zinc-800 rounded-full py-2 px-6 hover:bg-white/10 hover:border-white/20","children":"← Back to Index"}],["$","h1",null,{"className":"text-4xl md:text-5xl lg:text-7xl font-extrabold tracking-tighter mb-4 text-white leading-tight","children":"Asian voices in the Psychedelic Movement: 24hr Circle Sat 25 May 2024"}],["$","p",null,{"className":"text-zinc-400 mb-12 font-mono text-sm border-b border-zinc-900 pb-8","children":["Published ","May 2, 2024"]}],["$","article",null,{"className":"mt-8 text-zinc-300 leading-relaxed text-lg  [&_p]:mb-6  [&_h1]:text-white [&_h1]:font-extrabold [&_h1]:text-4xl [&_h1]:mb-6 [&_h1]:mt-12 [&_h1]:tracking-tight [&_h2]:text-white [&_h2]:font-extrabold [&_h2]:text-3xl [&_h2]:mb-6 [&_h2]:mt-10 [&_h2]:tracking-tight [&_h3]:text-white [&_h3]:font-bold [&_h3]:text-2xl [&_h3]:mb-4 [&_h3]:mt-8 [&_a]:text-blue-400 hover:[&_a]:bg-blue-400/10 [&_a]:transition-colors [&_a]:underline [&_a]:underline-offset-4 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mb-6 [&_ul>li]:mb-2 [&_ol]:list-decimal [&_ol]:pl-5 [&_ol]:mb-6 [&_ol>li]:mb-2 [&_blockquote]:border-l-4 [&_blockquote]:border-zinc-700 [&_blockquote]:pl-6 [&_blockquote]:italic [&_blockquote]:text-zinc-400 [&_img]:rounded-xl [&_img]:border [&_img]:border-white/10 [&_img]:shadow-2xl [&_img]:!max-w-full [&_img]:h-auto [&_img]:mx-auto [&_figure]:!max-w-full [&_figure]:overflow-hidden [&_figure]:my-8 [&_figure_figcaption]:text-sm [&_figure_figcaption]:text-center [&_figure_figcaption]:text-zinc-500 [&_figure_figcaption]:mt-3","dangerouslySetInnerHTML":{"__html":"$4"}}],["$L5"]]}]}]]}],null,"$L6"]}],"loading":null,"isPartial":false}
-5:["$","div","Featured-0",{"className":"mt-10 border-t border-white/10 pt-2","children":["$","$L7",null,{"title":"Featured","items":[{"id":"you-must-respect-the-circle-of-life-to-drink-ayahu","title":"You Must Respect the Circle of Life to Drink Ayahuasca","description":"It’s a mistake to believe psychedelics shelter us from the realities of existence, say indigenous healers.","href":"/posts/you-must-respect-the-circle-of-life-to-drink-ayahu","image":"https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1684368434898-HAE8YQEC7UZW3FL80T1S/Carme%25CC%2581zia-Emiliano-Wazaka%25CC%2581-A-a%25CC%2581rvore-da-vida-2022-Enhanced-SR.jpg"},{"id":"wavy-garms","title":"Wavy Garms","description":"What the modern-day professional psychopomp is wearing this season.","href":"/posts/wavy-garms","image":"https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1677407301672-HWNBPJOI4TQSTYGG9NJQ/nick-knight-4.jpg"},{"id":"let-them-know-its-saturnalia-time","title":"Let them know it’s Saturnalia time","description":"Heal the world from collective trauma, says Thomas Hubl.","href":"/posts/let-them-know-its-saturnalia-time","image":"https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1677407068151-9RNW2W5BAEV90O9Y0FMP/medicine-festival.jpeg"}]}]}]
-6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
-a:null
+</div>0:{"buildId":"x-vapnWmhMTJ3iyawQXvG","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"relative min-h-screen font-sans bg-black","children":[["$","$L2",null,{}],["$","div",null,{"className":"relative z-10 w-full min-h-screen bg-black/80 backdrop-blur-md pb-20 px-4 md:px-16 pt-16","children":["$","div",null,{"className":"max-w-4xl mx-auto backdrop-blur-3xl bg-[#111111]/30 p-8 md:p-12 rounded-2xl border border-white/5 shadow-2xl","children":[["$","$L3",null,{"href":"/","className":"text-zinc-500 hover:text-white mb-8 inline-block transition-colors font-mono text-sm tracking-tight border border-zinc-800 rounded-full py-2 px-6 hover:bg-white/10 hover:border-white/20","children":"← Back to Index"}],["$","h1",null,{"className":"text-4xl md:text-5xl lg:text-7xl font-extrabold tracking-tighter mb-4 text-white leading-tight","children":"Asian voices in the Psychedelic Movement: 24hr Circle Sat 25 May 2024"}],["$","p",null,{"className":"text-zinc-400 mb-12 font-mono text-sm border-b border-zinc-900 pb-8","children":["Published ","May 2, 2024"]}],["$","div",null,{"className":"mt-8 space-y-10","children":[["$","article","html-0",{"className":"text-zinc-300 leading-relaxed text-lg [&_p]:mb-6 [&_h1]:text-white [&_h1]:font-extrabold [&_h1]:text-4xl [&_h1]:mb-6 [&_h1]:mt-12 [&_h1]:tracking-tight [&_h2]:text-white [&_h2]:font-extrabold [&_h2]:text-3xl [&_h2]:mb-6 [&_h2]:mt-10 [&_h2]:tracking-tight [&_h3]:text-white [&_h3]:font-bold [&_h3]:text-2xl [&_h3]:mb-4 [&_h3]:mt-8 [&_a]:text-blue-400 hover:[&_a]:bg-blue-400/10 [&_a]:transition-colors [&_a]:underline [&_a]:underline-offset-4 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mb-6 [&_ul>li]:mb-2 [&_ol]:list-decimal [&_ol]:pl-5 [&_ol]:mb-6 [&_ol>li]:mb-2 [&_blockquote]:border-l-4 [&_blockquote]:border-zinc-700 [&_blockquote]:pl-6 [&_blockquote]:italic [&_blockquote]:text-zinc-400 [&_img]:rounded-xl [&_img]:border [&_img]:border-white/10 [&_img]:shadow-2xl [&_img]:!max-w-full [&_img]:h-auto [&_img]:mx-auto [&_figure]:!max-w-full [&_figure]:overflow-hidden [&_figure]:my-8 [&_figure_figcaption]:text-sm [&_figure_figcaption]:text-center [&_figure_figcaption]:text-zinc-500 [&_figure_figcaption]:mt-3","dangerouslySetInnerHTML":{"__html":"<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <h2 >Stanford’s Ripal Shah and Bangkok Psychedelic Society’s Neil Gehani will be among 24 speakers over 24 hours</h2>\n</div>"}}],["$","$L4","gallery-1",{"images":[{"id":"jpeg-image-426f-ae40-4c-0-jpeg-1","src":"https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1714684839507-B4MQZ956VGXM1SD7FIHL/JPEG+image-426F-AE40-4C-0.jpeg?format=original","alt":"JPEG image 426F AE40 4C 0"},{"id":"jpeg-image-4511-8c57-d5-0-jpeg-2","src":"https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1714684845201-EWXFPKSIBRP3FOQAIQ9C/JPEG+image-4511-8C57-D5-0.jpeg?format=original","alt":"JPEG image 4511 8C57 D5 0"},{"id":"jpeg-image-4244-8e1c-fb-0-jpeg-3","src":"https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1714684845005-6CDFL230F0WBPH34ZCFB/JPEG+image-4244-8E1C-FB-0.jpeg?format=original","alt":"JPEG image 4244 8E1C FB 0"},{"id":"jpeg-image-479e-b318-d5-0-jpeg-4","src":"https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1714684839966-V5SF59L9CUI0G3MUDGVF/JPEG+image-479E-B318-D5-0.jpeg?format=original","alt":"JPEG image 479E B318 D5 0"}]}],["$","article","html-2",{"className":"text-zinc-300 leading-relaxed text-lg [&_p]:mb-6 [&_h1]:text-white [&_h1]:font-extrabold [&_h1]:text-4xl [&_h1]:mb-6 [&_h1]:mt-12 [&_h1]:tracking-tight [&_h2]:text-white [&_h2]:font-extrabold [&_h2]:text-3xl [&_h2]:mb-6 [&_h2]:mt-10 [&_h2]:tracking-tight [&_h3]:text-white [&_h3]:font-bold [&_h3]:text-2xl [&_h3]:mb-4 [&_h3]:mt-8 [&_a]:text-blue-400 hover:[&_a]:bg-blue-400/10 [&_a]:transition-colors [&_a]:underline [&_a]:underline-offset-4 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mb-6 [&_ul>li]:mb-2 [&_ol]:list-decimal [&_ol]:pl-5 [&_ol]:mb-6 [&_ol>li]:mb-2 [&_blockquote]:border-l-4 [&_blockquote]:border-zinc-700 [&_blockquote]:pl-6 [&_blockquote]:italic [&_blockquote]:text-zinc-400 [&_img]:rounded-xl [&_img]:border [&_img]:border-white/10 [&_img]:shadow-2xl [&_img]:!max-w-full [&_img]:h-auto [&_img]:mx-auto [&_figure]:!max-w-full [&_figure]:overflow-hidden [&_figure]:my-8 [&_figure_figcaption]:text-sm [&_figure_figcaption]:text-center [&_figure_figcaption]:text-zinc-500 [&_figure_figcaption]:mt-3","dangerouslySetInnerHTML":{"__html":"$5"}}]]}],["$L6"]]}]}]]}],null,"$L7"]}],"loading":null,"isPartial":false}
+6:["$","div","Featured-0",{"className":"mt-10 border-t border-white/10 pt-2","children":["$","$L8",null,{"title":"Featured","items":[{"id":"you-must-respect-the-circle-of-life-to-drink-ayahu","title":"You Must Respect the Circle of Life to Drink Ayahuasca","description":"It’s a mistake to believe psychedelics shelter us from the realities of existence, say indigenous healers.","href":"/posts/you-must-respect-the-circle-of-life-to-drink-ayahu","image":"https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1684368434898-HAE8YQEC7UZW3FL80T1S/Carme%25CC%2581zia-Emiliano-Wazaka%25CC%2581-A-a%25CC%2581rvore-da-vida-2022-Enhanced-SR.jpg"},{"id":"wavy-garms","title":"Wavy Garms","description":"What the modern-day professional psychopomp is wearing this season.","href":"/posts/wavy-garms","image":"https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1677407301672-HWNBPJOI4TQSTYGG9NJQ/nick-knight-4.jpg"},{"id":"let-them-know-its-saturnalia-time","title":"Let them know it’s Saturnalia time","description":"Heal the world from collective trauma, says Thomas Hubl.","href":"/posts/let-them-know-its-saturnalia-time","image":"https://images.squarespace-cdn.com/content/v1/63fb335b3e9a0668574e3bd3/1677407068151-9RNW2W5BAEV90O9Y0FMP/medicine-festival.jpeg"}]}]}]
+7:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null
